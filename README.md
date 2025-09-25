@@ -1,16 +1,25 @@
-📝 To-Do List App
+# 📝 Todo List App
 
-A simple and intuitive to-do list application where you can add, edit, toggle (mark complete/incomplete), and remove your tasks. Built for productivity and ease of use.
+A simple and lightweight **Todo List** web application where you can:
+- ➕ Add new todos  
+- ✏️ Edit existing todos  
+- ✅ Toggle completion status  
+- 🗑️ Delete todos  
 
-🚀 Features
-✅ Add new tasks
-✏️ Edit existing tasks
-🔄 Toggle task completion status
-❌ Remove tasks
+All todos are stored in **localStorage**, so your tasks remain even after refreshing the page.  
 
+---
 
-🛠️ Technologies Used
+## 🚀 Features
+- Add tasks quickly and easily  
+- Edit tasks inline  
+- Mark tasks as completed or uncompleted  
+- Delete tasks you no longer need  
+- Data persistence using **localStorage**  
 
-react.js
-javascript
-tailwindcss
+---
+
+## 🛠️ Tech Stack
+- **React.js**  
+- **Tailwindcss**  
+- **JavaScript**  
