@@ -48,7 +48,7 @@ function App() {
   <div className="bg-slate-900 min-h-screen py-8 text-gray-100 font-sans">
     <div className="w-full max-w-lg mx-auto p-6 bg-gradient-to-br from-slate-800 to-gray-800 shadow-2xl rounded-xl border border-gray-700">
       <h1 className="text-4xl font-extrabold text-center mb-10 text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-blue-500">
-        ✨ Your To-Do List ✨
+        ✨ React To-Do List ✨
       </h1>
       <div className="mb-6">
         <TodoForm />
